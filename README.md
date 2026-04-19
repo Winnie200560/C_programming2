@@ -20,10 +20,10 @@
 4. Реализован статический метод заполнения бинарного файла: открываеи бинарный файл для записи, генерируем случайные числа и каждое число записывается в файл в бинарном виде. Метод фильтрации данных: открываем исходный файл для чтения и новый для записи, пока не конец файла - считываем число и проверяем условие (num % m == 0 && num % n != 0), если оно выполняется записываем в новый файл. 
 
 ### Тестирование
-<img width="704" height="342" alt="image" src="https://github.com/user-attachments/assets/8fec7b68-e6a3-4a22-b68e-c4a9fc7468c3" />
-<img width="599" height="280" alt="image" src="https://github.com/user-attachments/assets/96a5e0eb-c289-4219-846e-38ef2ecc49e3" />
-<img width="576" height="353" alt="image" src="https://github.com/user-attachments/assets/9478cfd8-27ce-4011-8c16-cbe34643a1bf" />
-<img width="663" height="129" alt="image" src="https://github.com/user-attachments/assets/13b7c9ed-f784-44ce-b647-7cdfb6cd67a7" />
+1) <img width="704" height="342" alt="image" src="https://github.com/user-attachments/assets/8fec7b68-e6a3-4a22-b68e-c4a9fc7468c3" />
+2) <img width="599" height="280" alt="image" src="https://github.com/user-attachments/assets/96a5e0eb-c289-4219-846e-38ef2ecc49e3" />
+3) <img width="576" height="353" alt="image" src="https://github.com/user-attachments/assets/9478cfd8-27ce-4011-8c16-cbe34643a1bf" />
+4) <img width="663" height="129" alt="image" src="https://github.com/user-attachments/assets/13b7c9ed-f784-44ce-b647-7cdfb6cd67a7" />
 
 
 
