@@ -14,3 +14,5 @@
 ### Алгорит решения
 
 ### Тестирование
+<img width="704" height="342" alt="image" src="https://github.com/user-attachments/assets/8fec7b68-e6a3-4a22-b68e-c4a9fc7468c3" />
+<img width="457" height="280" alt="image" src="https://github.com/user-attachments/assets/f99c5074-e17b-4e10-97b5-28f9b2159e89" />
